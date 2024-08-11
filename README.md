@@ -101,7 +101,6 @@ different modules regarding the concepts of super-admin, admin, and simple users
 - Webpack or other module bundlers
 - Cross-Browser Compatibility
 - UI/UX Principles
-- Accessibility (a11y)
 - Agile/Scrum methodologies
 - Code Review and Debugging
 - Responsive and Mobile-First Design
